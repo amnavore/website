@@ -50,33 +50,24 @@ table {
 html {
  margin: 10px 64px;
 }
-body {
-  background-color: #97b5e5
-}
+
 h1 {
- border-bottom: 2px solid;
- padding: 16px 0px;
- font-family: futura;
+ font-family: Futura, "Trebuchet MS", Arial, sans-serif;
  font-size: 44px;
- text-align: center;
+ text-align: left;
 }
 
 h2 {
  margin: 10px;
  padding: 8px 0px;
- border-bottom: 2px solid;
- text-align: center;
- font-family: futura;
- font-size: 30px;
+ text-align: left;
+ font-family:Futura, "Trebuchet MS", Arial, sans-serif;;
+ font-size: 28px;
 }
 
 p {
  margin: 12px 10px;
- font-family: arialnarrow;
- font-size: 20px;
+ font-family: arial;
+ font-size: 16px;
  line-height: 26px;
-}
-
-p + p {
- margin-top: 24px;
 }
