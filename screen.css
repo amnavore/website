@@ -48,6 +48,10 @@ table {
 }
 
 html {
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
 	font-size: 1.125em; /*18 / 16 = 1.125 */
 	line-height: 1.222222em; /*21.6 / 18 = 1.2 */
 	padding-top: 2.444444em; /* 44 / 18 = 2.4444444 em */
