@@ -53,6 +53,8 @@ html {
   -ms-text-size-adjust: 100%;
 	text-rendering: optimizeLegibility;
 	font-size: 1.125em; /*18 / 16 = 1.125 */
+	color: #5e2c0b;
+	background-color: #ffefe5;
 	line-height: 1.222222em; /*21.6 / 18 = 1.2 */
 	padding-top: 2.444444em; /* 44 / 18 = 2.4444444 em */
 	padding-right: 1.222222em;
