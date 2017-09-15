@@ -84,3 +84,8 @@ h2 {
  font-family:Futura, "Trebuchet MS", Arial, sans-serif;;
  font-size: 28px;
 }
+
+img {
+	display: block;
+	max-width: 100%;
+}
